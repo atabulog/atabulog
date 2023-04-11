@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atabulog
-- 👀 I’m interested in embedded development
-- 🌱 I’m currently learning how to extend motion control experience to other fields of interest
+- 👀 I’m a big ol' nerd with more interests than time to pursue them.
+- 🌱 I am currently interested in software language parsing.
 
 <!---
 atabulog/atabulog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
